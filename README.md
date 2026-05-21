@@ -2,4 +2,4 @@
 
 ## Вакансии
 
-- [Crypto Vacancy: Web3 / Blockchain Developer](crypto-vacancy.md)
+- [Web3 Elite Network & Partnerships Director](crypto-vacancy.md)
