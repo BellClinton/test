@@ -21,7 +21,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   color: var(--text);
   background:
     radial-gradient(circle at top left, rgba(54, 209, 220, 0.22), transparent 34rem),
