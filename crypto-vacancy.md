@@ -95,20 +95,34 @@ conferences and private networking events.
 - A title and mandate designed for someone who wants to be seen as a serious
   connector, rainmaker, and ecosystem builder.
 
-## Screening Questions
+## LinkedIn Screening Questions
 
-1. Which Web3 verticals do you have the strongest active network in, and who are
-   the types of people who usually respond to your introductions?
-2. Describe one crypto/Web3 partnership, investment introduction, sponsorship,
-   or high-value deal you helped create. What was your role and what was the
-   outcome?
-3. Which major Web3 conferences, private events, or investor circles have you
-   attended, hosted, sponsored, or helped organize?
-4. How would you generate the first USD 250,000 in partnership or sponsorship
-   pipeline for Web3preneur?
-5. Are you comfortable being a public-facing representative of a premium Web3
-   network, including travel, private meetings, VIP dinners, and direct outreach
-   to high-net-worth crypto participants?
+1. Have you worked directly in crypto, blockchain, Web3, DeFi, digital assets,
+   exchanges, venture, or related markets for at least 2 years?
+   - Answer type: Yes/No
+   - Recommended qualification: Yes
+
+2. Have you personally generated or influenced revenue through sponsorships,
+   strategic partnerships, investor introductions, ecosystem deals, or
+   high-ticket B2B sales?
+   - Answer type: Yes/No
+   - Recommended qualification: Yes
+
+3. Are you comfortable representing Web3preneur publicly at major Web3
+   conferences, private meetings, VIP dinners, and high-value networking events?
+   - Answer type: Yes/No
+   - Recommended qualification: Yes
+
+4. How many major crypto/Web3 conferences, private investor events, side events,
+   roundtables, or VIP networking events have you attended, hosted, sponsored,
+   or helped organize?
+   - Answer type: Numeric
+   - Recommended qualification: 5 or more
+
+5. What is the largest USD value of a sponsorship, partnership, investment
+   introduction, or strategic deal pipeline you have personally influenced?
+   - Answer type: Numeric
+   - Recommended qualification: 100000 or more
 
 ## How to Apply
 
