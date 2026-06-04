@@ -42,7 +42,7 @@ La persona ideal entiende como se mueven los activos digitales en mercados reale
 - El rol combina estrategia, lectura de mercado, ejecucion y desarrollo de relaciones.
 
 ## Compensacion
-- Salario base: USD 4,000-6,500 por mes segun experiencia y fit con el mercado.
+- Salario base: USD 48,000-78,000 por ano segun experiencia y fit con el mercado.
 - Upside atado a performance.
 - Esquema remoto flexible dentro de Argentina.
 
@@ -52,7 +52,7 @@ La persona ideal entiende como se mueven los activos digitales en mercados reale
 3. Trabajaste directamente con stablecoins, liquidez en exchanges, flujos OTC, operaciones de treasury o infraestructura on/off-ramp?
 4. Podes comunicarte de forma profesional tanto en espanol como en ingles?
 5. Compartinos un ejemplo breve de una iniciativa de capital, liquidez o expansion de mercado en la que hayas trabajado.
-6. Cual es tu expectativa salarial mensual en USD?
+6. Cual es tu expectativa salarial anual en USD?
 
 ## Como aplicar
 Envia tu CV o perfil de LinkedIn junto con una nota breve explicando por que Argentina es uno de los mercados cripto mas importantes del mundo y como encararias una estrategia de capital en este mercado.
