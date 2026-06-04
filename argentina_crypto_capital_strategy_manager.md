@@ -47,12 +47,12 @@ The ideal candidate understands how digital assets move through real markets, kn
 - Flexible remote setup in Argentina.
 
 ## LinkedIn screening questions
-1. Are you currently based in Argentina?
-2. Do you have at least 3 years of experience in crypto, fintech, treasury, capital markets, or strategic finance?
-3. Have you worked directly with stablecoins, exchange liquidity, OTC flows, treasury operations, or on/off-ramp infrastructure?
-4. Can you communicate professionally in both Spanish and English?
-5. Please share one short example of a capital, liquidity, or market expansion initiative you helped execute.
-6. What is your expected annual compensation in USD?
+1. Are you currently based in Argentina? (Yes/No)
+2. How many years of experience do you have in crypto, fintech, treasury, capital markets, or strategic finance? (Numeric)
+3. Have you worked directly with stablecoins? (Yes/No)
+4. Have you worked with exchange liquidity, OTC flows, treasury operations, or on/off-ramp infrastructure? (Yes/No)
+5. Are you professionally fluent in both Spanish and English? (Yes/No)
+6. What is your expected annual compensation in USD? (Numeric)
 
 ## How to apply
 Send your CV or LinkedIn profile together with a short note explaining why Argentina is one of the most important crypto markets in the world and how you would approach capital strategy in this market.
