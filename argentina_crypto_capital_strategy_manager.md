@@ -42,9 +42,17 @@ The ideal candidate understands how digital assets move through real markets, kn
 - The role combines strategy, market understanding, execution, and relationship-building.
 
 ## Compensation
-- Competitive salary in USD or equivalent structure.
+- Base salary: USD 4,000-6,500 per month depending on experience and market fit.
 - Performance-based upside.
 - Flexible remote setup in Argentina.
+
+## LinkedIn screening questions
+1. Are you currently based in Argentina?
+2. Do you have at least 3 years of experience in crypto, fintech, treasury, capital markets, or strategic finance?
+3. Have you worked directly with stablecoins, exchange liquidity, OTC flows, treasury operations, or on/off-ramp infrastructure?
+4. Can you communicate professionally in both Spanish and English?
+5. Please share one short example of a capital, liquidity, or market expansion initiative you helped execute.
+6. What is your expected monthly compensation in USD?
 
 ## How to apply
 Send your CV or LinkedIn profile together with a short note explaining why Argentina is one of the most important crypto markets in the world and how you would approach capital strategy in this market.
