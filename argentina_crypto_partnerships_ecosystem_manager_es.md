@@ -40,7 +40,7 @@ No es un puesto de marketing generico. Vas a trabajar en partnerships, growth, i
 - El rol combina lectura de ecosistema, ejecucion de partnerships, entendimiento de mercado y desarrollo de relaciones.
 
 ## Compensacion
-- Salario base: USD 42,000-66,000 por ano segun experiencia y fit con el mercado.
+- Salario base: USD 60,000-90,000 por ano segun experiencia y fit con el mercado.
 - Upside atado a performance.
 - Esquema remoto flexible dentro de Argentina.
 

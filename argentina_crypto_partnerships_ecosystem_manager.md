@@ -40,7 +40,7 @@ This is not a generic marketing position. You will work across partnerships, gro
 - The role combines ecosystem thinking, partnership execution, market understanding, and relationship-building.
 
 ## Compensation
-- Base salary: USD 42,000-66,000 per year depending on experience and market fit.
+- Base salary: USD 60,000-90,000 per year depending on experience and market fit.
 - Performance-based upside.
 - Flexible remote setup in Argentina.
 

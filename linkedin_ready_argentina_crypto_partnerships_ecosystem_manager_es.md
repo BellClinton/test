@@ -4,7 +4,7 @@ Ubicacion: Buenos Aires, Argentina / Remoto dentro de Argentina
 
 Modalidad: Tiempo completo
 
-Salario base: USD 42,000-66,000 por ano + upside atado a performance
+Salario base: USD 60,000-90,000 por ano + upside atado a performance
 
 Buscamos un Crypto Partnerships & Ecosystem Manager para liderar iniciativas de crecimiento de usuarios, partnerships y expansion de mercado en Argentina. Es un rol para perfiles crypto-native que entienden producto, comunidad, distribucion y ecosistema.
 
